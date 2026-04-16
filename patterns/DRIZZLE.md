@@ -1,4 +1,4 @@
-# DRIZZLE.Md
+# DRIZZLE
 
 ## Context
 
