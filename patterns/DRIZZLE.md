@@ -1,8 +1,0 @@
-# DRIZZLE
-
-## Context
-
-## Solution
-
-## Example
-
