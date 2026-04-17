@@ -1,8 +1,0 @@
-# Driz
-
-## Context
-
-## Solution
-
-## Example
-

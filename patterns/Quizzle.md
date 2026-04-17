@@ -1,8 +1,0 @@
-# Quizzle
-
-## Context
-
-## Solution
-
-## Example
-
